@@ -14,20 +14,11 @@
  * }
  */
 class Solution {
-    /*
-    
-    Raw Notes: ok so we need to determine if the current node is within the low and the high, if so, add it to the total
-    
-    if root is in range, return root.val
-    if root left is null, root right
-    if root righ is null, root left
-    return root left and root right
-    
-    */
+
     public int rangeSumBST(TreeNode root, int low, int high) {
         int total = 0;
         if(root == null)
-            return 0;
+            return total;
         
         if(root.val >= low && root.val <= high)
             total += root.val;
