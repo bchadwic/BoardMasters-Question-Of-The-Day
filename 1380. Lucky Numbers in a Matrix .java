@@ -1,4 +1,5 @@
 class Solution {
+    // Solution is O(n^2) but the problem stated that there would never be more than 50 elements per row or col, runtime isn't critical in this problem.
     public List<Integer> luckyNumbers (int[][] matrix) {
         
         Set<Integer> rowMins = new HashSet<>();
