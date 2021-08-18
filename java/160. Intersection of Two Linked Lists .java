@@ -16,7 +16,6 @@ public class Solution {
                 }
                 headA = headA.next;
             }
-
             return null;
         }
     }
