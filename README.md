@@ -9,10 +9,13 @@
 2. Clone to local by `git clone https://github.com/bchadwic/BoardMasters-Question-Of-The-Day.git`
 
 ### GitHub CLI
-1. `gh repo fork --clone bchadwic/BoardMasters-Question-Of-The-Day`
+2. `gh repo fork --clone bchadwic/BoardMasters-Question-Of-The-Day`
 
 <hr>
-4. Locally, go to the solution folder in the repo that matches your language
+
+### Local
+
+3. Go to the solution folder in the local .git repo that matches your language
     - if your language folder isn't there, create a folder with your solutions language as the name in all lowercase
 
 4. A) If there is already a solution:
@@ -26,7 +29,7 @@
 <hr>
 
 ### GitHub.com
-7. Create a pull request with from your `YOUR-HOST/main` to `bchadwic/main` by clicking `Pull requests` and `New pull request`
+7. Create a pull request with from `YOUR-HOST/main` to `bchadwic/main` by clicking `Pull requests` and `New pull request`
 
 ### GitHub CLI
 7. `gh pr create -f -R bchadwic/BoardMasters-Question-Of-The-Day -B main`
