@@ -23,6 +23,7 @@
   
     B) If there isn't already a solution:
     - copy the problem's name, along with the # prefix, and use it as the new files name along with the appropriate extension for your language
+      - note: if you are using an IDE, such as a JetBrains tool, it may be easier to create a plain `File` to avoid naming convention conflicts
       - ex: `1. Two Sum .c`= the `#. problem name` of https://leetcode.com/problems/two-sum/ + ` .language extension`
 5. Add all and commit `git add . && git commit -m "Created by *USERNAME*"`
 6. Push changes `git push`
