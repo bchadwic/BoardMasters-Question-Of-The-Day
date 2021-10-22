@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: solution file name syntax check
-        uses: ./
+        uses: batista/lint-filenames@v1
         with:
-          path: './**/.'
+          path: './*/.'
           pattern: "^\\d+\\. [^.]+ .[a-zA-Z]$"
