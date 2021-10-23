@@ -1,3 +1,4 @@
+
 char * truncateSentence(char * s, int k){
     int words = 0;
     char * p = s;
