@@ -1,8 +1,3 @@
-## Why should you contribute?
-1. This is a great spot to learn, build open-source talent, or impress employers in *any* language you want!
-2. Every solution posted has a chance to give a new perspective to someone trying to learn more about whiteboard challenges.
-3. Leverage a great community to help enhance solutions with code reviews, and peer solution comparisons 
-
 ## How to contribute:
 ### GitHub.com
 1. Fork the repo
