@@ -26,7 +26,7 @@ if !File.exist?('../README.md')
     exit
 end
 
-if !system("checkout internal") 
+if !system("git checkout internal") 
     puts "Failed to checkout internal"
     exit
 end
