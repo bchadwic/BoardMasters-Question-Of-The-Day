@@ -1,6 +1,6 @@
 ## Question of the day
 
-[1071. Greatest Common Divisor Of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 
 ## Why should you contribute?
 1. This is a great spot to learn, build open-source talent, and impress employers in *any* language you want!
