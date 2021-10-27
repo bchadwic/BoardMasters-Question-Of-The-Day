@@ -1,6 +1,6 @@
 ## Question of the day
 
-[2. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+[1071. Greatest Common Divisor Of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 
 ## Why should you contribute?
 1. This is a great spot to learn, build open-source talent, and impress employers in *any* language you want!
