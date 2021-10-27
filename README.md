@@ -1,6 +1,6 @@
 ## Question of the day
 
-[1356. Sort Integers By The Number Of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
+[75. Sort Colors](https://leetcode.com/problems/sort-colors/)
 
 
 ## Why should you contribute?
