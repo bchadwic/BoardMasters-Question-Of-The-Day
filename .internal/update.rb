@@ -26,6 +26,11 @@ if !File.exist?('../README.md')
     exit
 end
 
+if !system("checkout internal") 
+    puts "Failed to checkout internal"
+    exit
+end
+
 readme = File.read('../README.md')
 puts readme.match(/^\[\d+\.[\w ]+\]\(.+\)$/)   
 if readme.match(/^\[\d+\.[\w ]+\]\(.+\)$/) == nil
@@ -34,13 +39,6 @@ if readme.match(/^\[\d+\.[\w ]+\]\(.+\)$/) == nil
 end
 readme.gsub!(/^\[\d+\.[\w ]+\]\(.+\)$/m, replace)
 File.open('../README.md', 'w') { |file| file.write(readme) }
-
-=begin
-if !system("git checkout main && git pull && git checkout -b auto") 
-    puts "Failed to make branch \"auto\" while updating \"main\""
-    exit
-end
-=end
 
 if !system("git add ../README.md") 
     puts "Failed to add file"
