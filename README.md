@@ -1,6 +1,6 @@
 ## Question of the day
 
-[75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+[575. Distribute Candies](https://leetcode.com/problems/distribute-candies/)
 
 
 ## Why should you contribute?
