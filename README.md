@@ -1,6 +1,6 @@
 ## Question of the day
 
-[575. Distribute Candies](https://leetcode.com/problems/distribute-candies/)
+[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 
 ## Why should you contribute?
 1. This is a great spot to learn, build open-source talent, and impress employers in *any* language you want!
