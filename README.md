@@ -14,3 +14,4 @@ Visit our [Contributing Page](https://github.com/bchadwic/BoardMasters-Question-
 <a href="https://github.com/bchadwic"><img src="https://github.com/bchadwic.png" width="60" align="left"></a>
 <a href="https://github.com/hjmonatt"><img src="https://github.com/hjmonatt.png" width="60" align="left"></a>
 <a href="https://github.com/riveraryan"><img src="https://github.com/riveraryan.png" width="60" align="left"></a>
+<a href="https://github.com/coltoy"><img src="https://github.com/coltoy.png" width="60" align="left"></a>
