@@ -1,6 +1,6 @@
 ## Question of the day
 
-[211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+[1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 
 ## Why should you contribute?
 1. This is a great spot to learn, build open-source talent, and impress employers in *any* language you want!
