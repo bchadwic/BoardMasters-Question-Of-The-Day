@@ -1,6 +1,6 @@
 ## Question of the day
 
-[1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+[1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
 
 ## Why should you contribute?
 1. This is a great spot to learn, build open-source talent, and impress employers in *any* language you want!
