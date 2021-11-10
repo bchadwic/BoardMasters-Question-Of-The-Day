@@ -7,7 +7,7 @@ change wrap settings to no wrap to see where to add the row at the bottom of the
 
 ## Interview Questions
 
-This is a collective table of technical questions people have had to do in an interview. The objective is to gauge what real life interviews are like, as well as the time they typically take. Feel free to add to the list with a pull request, the more data in the table, the better off applicants are!
+This is a collective table of technical questions people have had to do in an interview. The objective is to gauge what real life interviews are like, as well as the time they typically take. Feel free to add to the list with a pull request, the more data in the table, the better off applicants are! (if you are unsure how to contribute, visit our [contributing](https://github.com/bchadwic/BoardMasters-Question-Of-The-Day/blob/main/CONTRIBUTING.md) page)
 
 ### Notes
 
