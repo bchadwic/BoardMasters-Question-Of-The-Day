@@ -1,3 +1,6 @@
+// Joseph Igama
+// Solution for problem #1103
+
 public class Solution_1103
 {
     public int[] distributeCandies(int candies, int num_people) {
