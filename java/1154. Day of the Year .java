@@ -27,7 +27,10 @@ class Solution {
         int[] to sum the days until i < month - 1, then add the day
         on top.
         Solution is O(1)
-        This could be more concise and memory friendly
+
+        This could be more concise and memory friendly if each
+        indicie in the int[] was a running total of the days, i
+        would not need to loop over the array.  I may update this.
 
     */
     public int dayOfYear(String date)
