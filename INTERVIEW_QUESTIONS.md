@@ -13,9 +13,9 @@ This is a collective table of technical questions people have had to do in an in
 
 Company: feel more than welcome to leave this as a "-" to signify you are uncomfortable with sharing this info in a public repo
 
-Question: give enough details to help the reader understand the problem, but don't feel required to spell every detail out
+Question: give enough details to help the reader understand the problem, but don't feel required to spell out every detail
 
-Language: list the language you used for the problem, if the interviewers gave you and option add a "~" to the beginning of the language name
+Language: list the language you used for the problem, if the interviewers gave you an option add a "~" to the beginning of the language name
 
 Time Allowed: type the amount of time allowed for the problem(s) in hours formated as "\~.5 hr" where "~" means approximately
 
