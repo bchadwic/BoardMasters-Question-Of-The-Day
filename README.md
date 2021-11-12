@@ -1,6 +1,6 @@
 ## Question of the day
 
-[1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
+[1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
 
 ## Why should you contribute?
 1. This is a great spot to learn, build open-source talent, and impress employers in *any* language you want!
