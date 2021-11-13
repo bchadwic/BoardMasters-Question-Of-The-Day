@@ -10,6 +10,10 @@
 ## How to contribute:
 Visit our [Contributing Page](https://github.com/bchadwic/BoardMasters-Question-Of-The-Day/blob/main/CONTRIBUTING.md)!
 
+## Interview questions by company
+See our page [Interview Questions](https://github.com/bchadwic/BoardMasters-Question-Of-The-Day/blob/main/INTERVIEW_QUESTIONS.md#interview-questions) 
+to cross reference collective experiences.
+
 ## Contributors:
 <a href="https://github.com/bchadwic"><img src="https://github.com/bchadwic.png" width="60" align="left"></a>
 <a href="https://github.com/hjmonatt"><img src="https://github.com/hjmonatt.png" width="60" align="left"></a>
