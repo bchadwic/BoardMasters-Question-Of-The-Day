@@ -1,6 +1,6 @@
 ## Question of the day
 
-[1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
+[693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 
 ## Why should you contribute?
 1. This is a great spot to learn, build open-source talent, and impress employers in *any* language you want!
