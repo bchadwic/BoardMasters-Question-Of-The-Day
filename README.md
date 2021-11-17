@@ -1,6 +1,6 @@
 ## Question of the day
 
-[1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)
+[693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 
 ## Why should you contribute?
 1. This is a great spot to learn, build open-source talent, and impress employers in *any* language you want!
