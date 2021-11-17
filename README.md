@@ -10,7 +10,7 @@
 ## How to contribute:
 Visit our [Contributing Page](https://github.com/bchadwic/BoardMasters-Question-Of-The-Day/blob/main/CONTRIBUTING.md)!
 
-## Interview questions by company
+## Interview Questions by Company
 See our page [Interview Questions](https://github.com/bchadwic/BoardMasters-Question-Of-The-Day/blob/main/INTERVIEW_QUESTIONS.md#interview-questions) 
 to cross reference collective experiences.
 
@@ -20,4 +20,4 @@ to cross reference collective experiences.
 <a href="https://github.com/riveraryan"><img src="https://github.com/riveraryan.png" width="60" align="left"></a>
 <a href="https://github.com/coltoy"><img src="https://github.com/coltoy.png" width="60" align="left"></a>
 <a href="https://github.com/jcigama"><img src="https://github.com/jcigama.png" width="60" align="left"></a>
-
+<a href="https://github.com/NorthDecoder"><img src="https://github.com/NorthDecoder.png" width="60" align="left"></a>
