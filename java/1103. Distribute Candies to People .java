@@ -1,7 +1,7 @@
 // Joseph Igama
 // Solution for problem #1103
 
-public class Solution_1103
+public class Solution
 {
     public int[] distributeCandies(int candies, int num_people) {
         int[] candiesToPeople = new int[num_people];
