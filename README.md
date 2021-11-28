@@ -1,6 +1,6 @@
 ## Question of the day
 
-[747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
+[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
 ## Why should you contribute?
 1. This is a great spot to learn, build open-source talent, and impress employers in *any* language you want!
